@@ -1,15 +1,6 @@
 {
   "customers": [
     {
-      "id": 1,
-      "first": "Bob",
-      "last": "Joe",
-      "status": "2015 macbook pro in for repair",
-      "email": "bobjoe@gmail.com",
-      "phone": "(386)-543-2353",
-      "log": "This\nis\na\ntest\nlog"
-    },
-    {
       "id": 2,
       "first": "Sarah",
       "last": "Croft",
@@ -17,6 +8,88 @@
       "email": "sarahcroft@gmail.com",
       "phone": "(325)-345-2352",
       "log": "This\nis\nanother\ntest\nlog"
+    },
+    {
+      "first": "Bryce",
+      "last": "Hull",
+      "email": "bahull@live.com",
+      "phone": "501-786-1870",
+      "status": "New Customer",
+      "log": "",
+      "id": 4,
+      "undefined": "Not me"
+    },
+    {
+      "first": "Bryce",
+      "last": "Hull",
+      "email": "bahull@live.com",
+      "phone": "501-786-1870",
+      "status": "New Customer",
+      "log": "",
+      "id": 5
+    },
+    {
+      "first": "Bryce",
+      "last": "Hull",
+      "email": "bahull@live.com",
+      "phone": "501-786-1870",
+      "status": "New Customer",
+      "log": "",
+      "id": 6
+    },
+    {
+      "first": "Bryce",
+      "last": "Hull",
+      "email": "bahull@live.com",
+      "phone": "501-786-1870",
+      "status": "New Customer",
+      "log": "",
+      "id": 8
+    },
+    {
+      "first": "Bryce",
+      "last": "Hull",
+      "email": "bahull@live.com",
+      "phone": "501-786-1870",
+      "status": "New Customer",
+      "log": "",
+      "id": 9
+    },
+    {
+      "first": "",
+      "last": "",
+      "email": "",
+      "phone": "",
+      "status": "New Customer",
+      "log": "",
+      "id": 10
+    },
+    {
+      "first": "",
+      "last": "",
+      "email": "",
+      "phone": "",
+      "status": "New Customer",
+      "log": "",
+      "id": 11
+    },
+    {
+      "first": "",
+      "last": "",
+      "email": "",
+      "phone": "",
+      "status": "New Customer",
+      "log": "",
+      "id": 12
+    },
+    {
+      "first": "John",
+      "last": "person",
+      "email": "jkhasdf@jons.com",
+      "phone": "501-893483-348934",
+      "status": "New Customer",
+      "log": "",
+      "id": 13
     }
   ]
 }

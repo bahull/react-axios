@@ -11,6 +11,7 @@ class List extends Component {
     const {
       customerList,
       startNewCustomer,
+      selectCustomer
     } = this.props;
 
     const CustomerComponents = customerList.map( customer => (
@@ -19,6 +20,7 @@ class List extends Component {
         id={ customer.id }
         first={ customer.first }
         last={ customer.last }
+        selectCustomer={selectCustomer}
       />
     ));
 
@@ -27,7 +29,9 @@ class List extends Component {
         {
             <div id="List__namesContainer">
               { CustomerComponents }
-              <CreateCustomer startNewCustomer={startNewCustomer}/>
+              <CreateCustomer startNewCustomer={startNewCustomer}
+                              
+                              />
             </div>
         }
       </div>
